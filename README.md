@@ -1,5 +1,5 @@
 1. Description
-  - Clone shopee shop using HTML, CSS and Javascript
+  - Clone shopee shop using HTML, CSS
 2. Preview
 
 ![image](https://user-images.githubusercontent.com/89365325/219924045-703bf169-9330-4275-b6ee-19341bc65a9f.png)
